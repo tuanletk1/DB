@@ -79,7 +79,7 @@
 
 /* checkbox */
 #nav-toggle:checked+ .slidebar{
-    width: 70px;   
+/*     width: 70px;    */
 }
 #nav-toggle:checked+ .slidebar .slidebar-brand{
     font-size: 24px;
